@@ -2,7 +2,7 @@
 prova 1 de algoritmos e estrutura de dados I, materia ministrada pelo Prof. Jamal
 
 Ola, prof Jamal :). Infelizmente meu teclado nao tem acentos pq esta habilitado p/ ENG e como era um programa 
-feito por nos eu decidi deixar do meu jeitinho, por isso ta escrito meio zoado kkkkkkk desculpa se nao puder
+feito por nos eu decidi deixar do meu jeitinho, por isso ta escrito meio zoado kkkkkkk desculpa se nao puder.
 eu poderia ter colocado o contador se eu quisesse muito, mas nao achei que ia ornar com o codigo que eu quis
 criar, por isso deixei sem mesmo. a seguir vou explicar meu codigo de forma resumida:
 
